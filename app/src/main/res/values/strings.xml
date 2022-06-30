@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TBC_Course_7</string>
+    <string name="email_address">Email Address</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="your_age">Your age</string>
+    <string name="success">Success</string>
+    <string name="error">Error</string>
+    <string name="limiter">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="_0">0</string>
+    <string name="update">update</string>
+    <string name="add">add</string>
+    <string name="remove">remove</string>
+    <string name="successfully_added">&#160;has been successfully added</string>
+    <string name="already_exists">&#160;already exists</string>
+    <string name="is_not_exists">&#160;is not exists</string>
+    <string name="deleted">&#160;deleted</string>
+    <string name="all_values">Please fill all values</string>
+    <string name="value">Enter the value</string>
+    <string name="not_found">&#160;Not found</string>
+    <string name="update_success">Update was successful</string>
+</resources>
